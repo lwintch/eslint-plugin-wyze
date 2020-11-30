@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-lwintch-wyze",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "eslint key sorting rules from wyze (github)",
   "license": "MIT",
   "repository": "git@github.com:lwintch/eslint-plugin-wyze.git",
