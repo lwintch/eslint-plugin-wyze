@@ -57,7 +57,7 @@ We support a recommended config for the rules.
 
 ```js
 {
-  "extends": "plugin:wyze/recommended",
+  "extends": "plugin:lwintch-wyze/recommended",
   "plugins": [
     "wyze"
   ]
@@ -69,13 +69,13 @@ We support a recommended config for the rules.
 ```js
 {
   "rules": {
-    "wyze/func-call-arg-spacing": "error",
-    "wyze/func-params-spacing": "error",
-    "wyze/max-file-length": "error",
-    "wyze/newline-after-export": "error",
-    "wyze/sort-destructuring-keys": "error",
-    "wyze/sort-imports": "error",
-    "wyze/space-around-conditional": "error"
+    "lwintch-wyze/func-call-arg-spacing": "error",
+    "lwintch-wyze/func-params-spacing": "error",
+    "lwintch-wyze/max-file-length": "error",
+    "lwintch-wyze/newline-after-export": "error",
+    "lwintch-wyze/sort-destructuring-keys": "error",
+    "lwintch-wyze/sort-imports": "error",
+    "lwintch-wyze/space-around-conditional": "error"
   }
 }
 ```

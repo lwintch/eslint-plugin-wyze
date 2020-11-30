@@ -126,7 +126,7 @@ Default option settings are
 
 ```json
 {
-    'wyze/sort-imports': ['error', {
+    'lwintch-wyze/sort-imports': ['error', {
         'ignoreCase': false,
         'ignoreMemberSort': false,
         'memberSyntaxSortOrder': ['none', 'type', 'all', 'multiple', 'single']
