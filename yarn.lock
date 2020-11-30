@@ -2064,10 +2064,10 @@ eslint-config-airbnb@18.2.1:
     object.assign "^4.1.2"
     object.entries "^1.1.2"
 
-eslint-config-lwintch-wyze@0.0.1-alpha.2:
-  version "0.0.1-alpha.2"
-  resolved "https://registry.npmjs.org/eslint-config-lwintch-wyze/-/eslint-config-lwintch-wyze-0.0.1-alpha.2.tgz#0939a2ed5bd610a077b94aa9fffd0f3603856131"
-  integrity sha512-BUuomwS4LWsyfOlrIaGPK8BRVAW2pYe8NDMVLG9ZX6c/08SJc22hl+WRJcmgeUmR6/jRKb4rLyVpDezw6/Bj1g==
+eslint-config-lwintch-wyze@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.npmjs.org/eslint-config-lwintch-wyze/-/eslint-config-lwintch-wyze-1.1.0.tgz#00bde68ddbc42906bc0bf8daec8557c2b44d2fc9"
+  integrity sha512-TfK3G5PMo+Sa8XYmbniJ/y5DZtqbqWGSiKkndibaDwqxwXPg2X1+nAXhrxZI5qkIsH7Imofpct6NEE4AfXjpaQ==
 
 eslint-import-resolver-node@^0.3.4:
   version "0.3.4"
